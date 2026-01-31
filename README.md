@@ -1,4 +1,6 @@
 # Stragegic-ADRA-Resource-Decisions-in-Private-Lending
+### Status -> This repository is a completed reference project and is not under active development.
+
 This is the code base for private lending research. The results were part of my Doctoral Dissertation entitled
 
 
